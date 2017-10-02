@@ -1,3 +1,4 @@
+'''please remember to pull the save.txt file if you intend to run the game to ensure that high score works.'''
 import string
 import random
 
